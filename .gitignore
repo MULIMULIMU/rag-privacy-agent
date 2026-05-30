@@ -1,0 +1,7 @@
+.env
+API_Key.txt
+venv/
+__pycache__/
+*.pyc
+data/chroma_db/
+.ipynb_checkpoints/

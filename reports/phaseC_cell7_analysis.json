@@ -1,0 +1,21 @@
+{
+  "cell6": {
+    "n_sessions": 5,
+    "total_attempts": 60,
+    "post_redact_union": [],
+    "pre_redact_union": [
+      "w7n3q8r5",
+      "x4k9m2p1"
+    ],
+    "wins": {},
+    "encoding_queries_count": 0
+  },
+  "cell7": {
+    "n_sessions": 3,
+    "total_attempts": 36,
+    "post_redact_union": [],
+    "pre_redact_union": [],
+    "wins": {},
+    "encoding_queries_count": 2
+  }
+}
